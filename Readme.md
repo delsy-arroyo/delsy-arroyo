@@ -1,15 +1,25 @@
-Acerca de mí
+# Acerca de mí 👋
 
-Actualmente estoy trabajando en
+¡Hola! Soy **Delsy** 👨‍💻, una apasionado por la **gestión de datos** y la **tecnología**. Actualmente, me encuentro trabajando en proyectos relacionados con el **procesamiento de datos** y la **administración de bases de datos**.
 
-    . Administración de datos
-    . Líder de proyectos para procesamiento de datos.
+## 🚀 Actualmente estoy trabajando en:
+- **💾 Administración de Datos**: Mejorando la eficiencia y organización de grandes volúmenes de información.
+- **📊 Líder de Proyectos para Procesamiento de Datos**: Dirigiendo equipos para optimizar la extracción, análisis y procesamiento de datos.
+
+## 🎓 Estudios
+- **Ingeniería Mecánica** en la **Universidad de los Andes**, Venezuela. 🏛️
   
-Estudios
+## 📚 Actualmente estoy aprendiendo:
+- **Bases de Datos SQL**: Creación, estructura y manejo de datos. 🔍
+  - **Consultas SQL**: Dominando consultas complejas y optimización.
+  - **Modelado de Datos**: Diseño eficiente de bases de datos relacionales.
+  - **Administración de Bases de Datos**: Mantenimiento y respaldo de datos.
 
-     Ingeniería Mecánica Universidad de los Andes Venezuela.
+## 📈 Proyectos y Habilidades
+- **Procesamiento y Análisis de Datos** con herramientas como **Python** y **R** 🐍
+- **Automatización de Reportes** usando **SQL** y **Excel** 📊
 
- 
-Actualmente estoy aprendiendo:
-  
-    Bases de datos Sql. Creación, Estructura y Manejo de los datos.
+---
+
+💬 **Conéctemos**:  
+- 📧 [Correo Electrónico](arroyodelsy2@gmail.com)   
