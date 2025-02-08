@@ -1,6 +1,6 @@
 # Acerca de mí 👋
 
-¡Hola! Soy **Delsy** 👨‍💻, una apasionado por la **gestión de datos** y la **tecnología**. Actualmente, me encuentro trabajando en proyectos relacionados con el **procesamiento de datos** y la **administración de bases de datos**.
+¡Hola! Soy **Delsy** 👨‍💻, una apasionada por la **gestión de datos** y la **tecnología**. Actualmente, me encuentro trabajando en proyectos relacionados con el **procesamiento de datos** y la **administración de bases de datos**.
 
 ## 🚀 Actualmente estoy trabajando en:
 - **💾 Administración de Datos**: Mejorando la eficiencia y organización de grandes volúmenes de información.
